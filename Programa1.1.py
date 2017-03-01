@@ -1,5 +1,5 @@
 
-cadena=('las zanahorias y las zandias son buenos alimentos')
+cadena=('las zanahorias y las arroz son buenos alimentos')
 contar=0
 for i in cadena:
     if(i=='z'):
